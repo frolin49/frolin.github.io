@@ -1,0 +1,90 @@
+.div{
+background-image:url(https://squper.com/uploads/group/Qj/Ll/32RWu1DxId_BbEGeyKmOr3bwhoWLevUy.png);
+
+
+}
+body{
+background-color:greenyellow;
+}
+p { font: bold italic 200% serif; 
+text-align: center;
+}
+ 
+
+
+img{
+    margin: 0 auto;
+    border: 4px outset white;
+}
+.right{
+float:right;
+width: 15em;
+}
+.center{
+    display: block;
+margin-right:auto;
+margin-left:auto ;
+width: 18em;
+}
+img{
+justify-content: center;
+width: 15em;
+}
+.flex{
+display: flex;
+float: left;
+}
+.block1{
+display: flex;
+flex-direction: row;
+justify-content:left;
+bottom: 860px;;
+}
+.block2{
+display: flex;
+flex-direction: row;
+justify-content: left;
+bottom: 860px;
+}
+.pics{
+display: flex;
+justify-content: left;
+position:absolute;
+bottom: 830px;
+
+}
+.loh{
+display: flex;
+justify-content: left;
+position:absolute;
+bottom: 1520px;
+}
+.block3{
+display: flex;
+justify-content:left;
+position: absolute;
+bottom: 410px;
+}
+.frolin{
+display: flex;
+justify-content: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
